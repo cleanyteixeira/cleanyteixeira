@@ -57,3 +57,7 @@ Procuro uma oportunidade de trabalho na área de qualidade, onde possa usar minh
   ![Visitor Count](https://profile-counter.glitch.me/{cleanyteixeira}/count.svg)
 
 
+
+  ![Snake animation](https://github.com/cleanyteixeira/cleanyteixeira/blob/outout/github-contribution-grid-snake.sgv)
+
+
