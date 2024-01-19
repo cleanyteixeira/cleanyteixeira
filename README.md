@@ -58,9 +58,4 @@ Procuro uma oportunidade de trabalho na área de qualidade, onde possa usar minh
 
 
 
-<<<<<<< Updated upstream
-  ![Snake animation](https://github.com/cleanyteixeira/cleanyteixeira/blob/outout/github-contribution-grid-snake.sgv)
-
-=======
->>>>>>> Stashed changes
 
